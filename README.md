@@ -1,7 +1,6 @@
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-### Date: 19-08-2025
-### Developed By: K MADHAVA REDDY
-### Register Number: 212223240064
+### Developed By: KISHORE N
+### Register Number: 212223230106
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
